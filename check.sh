@@ -1,5 +1,5 @@
 #if not curl -s "https://iaai.com/VehicleDetails?itemid=39259279" | grep "yyyyyyh"
-if curl -s "https://iaai.com/VehicleDetails?itemid=39259279" | grep "1,025"
+if curl -s "https://iaai.com/VehicleDetails?itemid=39259279" | grep "1,0251"
 then
     date >> /git/iaai-checker/check.log
 else
