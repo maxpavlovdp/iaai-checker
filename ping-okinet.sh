@@ -6,8 +6,8 @@ then
   echo "success"
 else
   echo "error"
-  curl --location --request GET 'https://api.telegram
-  .org/bot1722077150:AAFYL-X4YAxw4RgujHE6mmwsfS2CdWwLtbE/sendMessage?chat_id=-590015500&text=server195isDown' \
+  curl --location --request GET \
+  'https://api.telegram.org/bot1722077150:AAFYL-X4YAxw4RgujHE6mmwsfS2CdWwLtbE/sendMessage?chat_id=-590015500&text=server195 isDown' \
        --header 'Cookie: X-OpenDNS-Session=52c42a730918d044330bea30ae645a571fff9270fc58_DbfeuR1L' -k
 fi
 
@@ -16,8 +16,8 @@ then
   echo "success"
 else
   echo "error"
-  curl --location --request GET 'https://api.telegram
-  .org/bot1722077150:AAFYL-X4YAxw4RgujHE6mmwsfS2CdWwLtbE/sendMessage?chat_id=-590015500&text=server194 is Down' \
+  curl --location --request GET \
+  'https://api.telegram.org/bot1722077150:AAFYL-X4YAxw4RgujHE6mmwsfS2CdWwLtbE/sendMessage?chat_id=-590015500&text=server194 isDown' \
        --header 'Cookie: X-OpenDNS-Session=52c42a730918d044330bea30ae645a571fff9270fc58_DbfeuR1L' -k
 fi
 
@@ -26,8 +26,8 @@ then
   echo "success"
 else
   echo "error"
-  curl --location --request GET 'https://api.telegram
-  .org/bot1722077150:AAFYL-X4YAxw4RgujHE6mmwsfS2CdWwLtbE/sendMessage?chat_id=-590015500&text=Dji campus is Down' \
+  curl --location --request GET \
+  'https://api.telegram.org/bot1722077150:AAFYL-X4YAxw4RgujHE6mmwsfS2CdWwLtbE/sendMessage?chat_id=-590015500&text=Djicampus isDown' \
        --header 'Cookie: X-OpenDNS-Session=52c42a730918d044330bea30ae645a571fff9270fc58_DbfeuR1L' -k
 fi
 
@@ -36,8 +36,8 @@ then
   echo "success"
 else
   echo "error"
-  curl --location --request GET 'https://api.telegram
-  .org/bot1722077150:AAFYL-X4YAxw4RgujHE6mmwsfS2CdWwLtbE/sendMessage?chat_id=-590015500&text=Hub campus is Down' \
+  curl --location --request GET \
+  'https://api.telegram.org/bot1722077150:AAFYL-X4YAxw4RgujHE6mmwsfS2CdWwLtbE/sendMessage?chat_id=-590015500&text=Hubcampus isDown' \
        --header 'Cookie: X-OpenDNS-Session=52c42a730918d044330bea30ae645a571fff9270fc58_DbfeuR1L' -k
 fi
 
@@ -46,8 +46,8 @@ then
   echo "success"
 else
   echo "error"
-  curl --location --request GET 'https://api.telegram
-  .org/bot1722077150:AAFYL-X4YAxw4RgujHE6mmwsfS2CdWwLtbE/sendMessage?chat_id=-590015500&text=server KT17-2 is Down' \
+  curl --location --request GET \
+  'https://api.telegram.org/bot1722077150:AAFYL-X4YAxw4RgujHE6mmwsfS2CdWwLtbE/sendMessage?chat_id=-590015500&text=serverKT172 isDown' \
        --header 'Cookie: X-OpenDNS-Session=52c42a730918d044330bea30ae645a571fff9270fc58_DbfeuR1L' -k
 fi
 
