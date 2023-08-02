@@ -1,2 +1,2 @@
-*/5 * * * * /bin/sh /git/iaai-checker/ping-okinet.sh
-*/5 * * * * /bin/sh /git/iaai-checker/check-lot.sh
+*/1 * * * * /bin/sh /git/iaai-checker/ping-okinet.sh
+*/1 * * * * /bin/sh /git/iaai-checker/check-lot.sh
