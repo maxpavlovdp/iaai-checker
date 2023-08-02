@@ -1,0 +1,1 @@
+*/5 * * * * /bin/sh /git/iaai-checker/ping-okinet.sh
