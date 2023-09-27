@@ -1,7 +1,7 @@
 cd "$(dirname "$0")" || exit
 git pull
 
-if ping -c 1 46.182.83.195 &> /dev/null
+if ping -c 1 46.182.83.199 &> /dev/null
 then
   echo "success"
 else
