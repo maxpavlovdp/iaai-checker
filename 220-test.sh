@@ -15,4 +15,5 @@ curl 'https://220-km.com:8080/api/device/v2/start?deviceFingerPrint=3a23fbd2-c32
   -H 'sec-fetch-site: same-site' \
   -H 'user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1' \
   --data-raw '{"station_number":"32"}' \
-  --compressed
+  --compressed \
+  >> 220-test.log
