@@ -18,16 +18,4 @@ curl 'https://220-km-preprod.com:8080/api/device/v2/start?deviceFingerPrint=3a23
   --compressed
 
 
-curl 'https://220-km-preprod.com:8080/api/order/generateCheckoutLinkKwt?station_number=333&kwt=5&deviceFingerPrint=44d89705-dafb-402f-9750-a7fc4a305e2e' \
-  -H 'authority: 220-km-preprod.com:8080' \
-  -H 'accept: */*' \
-  -H 'accept-language: ru,en-US;q=0.9,en;q=0.8,uk;q=0.7' \
-  -H 'cache-control: no-cache' \
-  -H 'origin: https://220-km-preprod.com' \
-  -H 'pragma: no-cache' \
-  -H 'referer: https://220-km-preprod.com/' \
-  -H 'sec-fetch-dest: empty' \
-  -H 'sec-fetch-mode: cors' \
-  -H 'sec-fetch-site: same-site' \
-  -H 'user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1' \
-  --compressed
+
